@@ -1,0 +1,88 @@
+.body{
+    margin: 20px;
+    width: 1500px;
+}
+.header {
+display: flex;
+width: 1326px;
+flex-direction: row;
+margin: 0px 20px 20px 0px;
+}
+.header__slogan {
+width: 492px;
+background: #FF0000;
+border-radius: 20px;
+margin: 0px 20px 0px 0px;
+}
+.header__slogan_style {
+font-family: Roboto;
+font-size: 22px;
+font-style: normal;
+font-weight: 400;
+line-height: 35px;
+letter-spacing: 0em;
+text-align: center;
+}
+.header__subtitle {
+width: 814px;
+background: #FFC700;
+}
+.header__subtitle_style {
+font-family: Roboto;
+font-size: 22px;
+font-style: normal;
+font-weight: 400;
+line-height: 35px;
+letter-spacing: 0em;
+text-align: center;
+}
+.page {
+display: flex;
+flex-direction: row;
+background: rgba(0, 255, 10, 1);
+width: 1326px;
+margin: 0px 0px 20px 0px;
+}
+.page__text {
+width: 636px;
+justify-items: flex-start;
+padding-left: 167px;
+}
+.page__text_style {
+font-family: Roboto;
+font-size: 22px;
+font-style: normal;
+font-weight: 400;
+line-height: 35px;
+letter-spacing: 0em;
+text-align: left;
+color: rgba(101, 101, 101, 1);
+}
+.page__icon {
+    align-self: flex-end;
+}
+.page__icon_style {
+height: 368px;
+width: 521px;
+border-radius: 0px; 
+}
+.footer {
+display: flex;
+width: 1326px;
+flex-direction: row;
+}
+.footer__icon_A {
+width: 430px;
+height: 239px;
+margin: 0px 20px 0px 0px;
+}
+.footer__icon_B {
+width: 430px;
+height: 239px;
+margin: 0px 20px 0px 0px;
+}
+.footer__icon_C {
+width: 430px;
+height: 239px;
+margin: 0px 20px 0px 0px;
+}
